@@ -1,7 +1,7 @@
-# docker-desktop-nix-dbeaver-database-visualation
+# docker-desktop-nix-avidemux-video-editor
 
 ## Description
-A POC for nix package manager loading dbeaver database visualation.
+A POC for nix package manager loading avidemux video editor.
 
 This is a barebones installation no pluggins where added.
 
@@ -11,7 +11,7 @@ ie. without a volume docker run --rm ... with a volume docker run --rm -v $(pwd)
 
 ## Tech stack
 - nix
-- dbeaver
+- avidemux
 
 ## Docker stack
 - ubuntu:22.04

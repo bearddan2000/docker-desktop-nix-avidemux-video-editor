@@ -10,7 +10,7 @@ ENV NIX_CHANNEL nixpkgs
 # https://nixos.org/channels/nixpkgs-unstable
 ENV NIX_CHANNEL_URL https://nixos.org/channels/nixos-22.05
 
-ENV NIX_PKG dbeaver
+ENV NIX_PKG avidemux
 
 ENV USERNAME developer
 
